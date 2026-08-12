@@ -1,0 +1,9 @@
+172.64.42.118:443#SG-Singapore
+104.18.33.185:443#SG-Singapore
+172.64.154.159:443#SG-Singapore
+198.41.222.52:443#SG-Singapore
+198.41.211.183:443#SG-Singapore
+198.41.223.194:443#SG-Singapore
+104.18.42.247:443#SG-Singapore
+172.64.149.77:443#SG-Singapore
+172.64.145.80:443#SG-Singapore
