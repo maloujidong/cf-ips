@@ -1,7 +1,3 @@
-104.16.152.124:443#US-Los Angeles
-104.18.177.22:443#US-Los Angeles
-104.18.204.158:443#US-Los Angeles
-104.17.185.254:443#US-Los Angeles
-104.17.114.134:443#US-Los Angeles
-104.18.206.126:443#US-Los Angeles
-104.18.158.102:443#US-Los Angeles
+104.17.138.83:443#US-Los Angeles-9.61MB/s-312ms
+104.17.79.175:443#US-Los Angeles-7.17MB/s-312ms
+104.16.53.73:443#US-Los Angeles-5.96MB/s-316ms
